@@ -11,6 +11,7 @@ int main(){
 	cin>>t;
 	int T=1;
 	while(t--){
+                // Intializing
 		long long N,k,n;
 		cin>>N>>k;
 		n=log2(k)-1;
